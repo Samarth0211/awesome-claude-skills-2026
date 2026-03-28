@@ -1,4 +1,6 @@
 # Awesome Claude Skills 2026
+n[![GitHub stars](https://img.shields.io/github/stars/Samarth0211/awesome-claude-skills-2026?style=social)](https://github.com/Samarth0211/awesome-claude-skills-2026) [![Claude Skills Hub](https://img.shields.io/badge/clskills.in-2%2C300%2B%20skills-6366f1)](https://clskills.in)
+
 
 A curated list of the best Claude Code skills, agents, and resources for 2026.
 
