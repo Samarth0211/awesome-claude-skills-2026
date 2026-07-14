@@ -93,6 +93,7 @@ Top picks:
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) — 1,300+ installable skills
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — 1,000+ community agent skills
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Curated skills list
+- [ANVEAI/idea-hunt-skill](https://github.com/ANVEAI/idea-hunt-skill) — Evidence-first AI business idea discovery & validation skill
 
 ## Installation
 
